@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE booklist SYSTEM "ex2-2.dtd">
+
+<booklist>
+    <book>
+        <title>Java XML</title>
+        <author>홍길동</author>
+        <publisher>프리렉</publisher>
+        <price>20000</price>
+    </book>
+    <book>
+        <title>숫자는 어떻게 진실을 말하는가</title>
+        <author>바츨라프 스밀</author>
+        <publisher>김영사</publisher>
+        <price>17000</price>
+    </book>
+</booklist>

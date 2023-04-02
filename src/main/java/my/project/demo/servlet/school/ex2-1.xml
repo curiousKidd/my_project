@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<booklist>
+    <book kind="컴퓨터">
+        <title>Java XML</title>
+        <author>홍길동</author>
+        <publisher>프리렉</publisher>
+        <price>20000</price>
+    </book>
+</booklist>
