@@ -1,4 +1,4 @@
-package my.project.demo.stream.function;
+package my.project.demo.stream.ex02.function;
 
 import java.util.function.Function;
 

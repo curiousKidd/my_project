@@ -1,4 +1,4 @@
-package my.project.demo.stream.supplier;
+package my.project.demo.stream.ex02.supplier;
 
 import java.util.concurrent.TimeUnit;
 import java.util.function.Supplier;

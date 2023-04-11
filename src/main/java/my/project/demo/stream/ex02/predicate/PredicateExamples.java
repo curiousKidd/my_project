@@ -1,4 +1,4 @@
-package my.project.demo.stream.predicate;
+package my.project.demo.stream.ex02.predicate;
 
 import java.util.ArrayList;
 import java.util.Arrays;

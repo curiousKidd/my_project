@@ -1,4 +1,4 @@
-package my.project.demo.stream.consumer;
+package my.project.demo.stream.ex02.consumer;
 
 import java.util.function.Consumer;
 
